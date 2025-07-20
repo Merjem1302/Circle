@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/06/13 19:15:41.000.309,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/06/13 19:15:41.000.098,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/06/13 19:29:04.000.367,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2025/06/13 19:29:15.000.981,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Pomocna.h</Transaction>
+    <Transaction>2025/06/13 19:29:15.000.981,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Pomocna.cpp</Transaction>
+    <Transaction>2025/06/13 19:31:16.000.513,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\Unit1.cpp</Transaction>
+    <Transaction>2025/06/13 19:31:16.000.625,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\ProjekatTema4UKG_MerjemMehmedovic.cbproj</Transaction>
+    <Transaction>2025/06/13 19:31:16.000.560,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Pomocna.cpp=C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\Pomocna.cpp</Transaction>
+    <Transaction>2025/06/13 19:31:16.000.560,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Pomocna.h=C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\Pomocna.h</Transaction>
+    <Transaction>2025/06/13 19:31:16.000.486,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\ProjekatTema4UKG_MerjemMehmedovicPCH1.h</Transaction>
+    <Transaction>2025/06/13 19:31:16.000.513,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\Unit1.dfm</Transaction>
+    <Transaction>2025/06/13 19:31:16.000.513,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\Unit1.h</Transaction>
+    <Transaction>2025/06/13 19:31:44.000.326,C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\Unit1.cpp=C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\Prozor.cpp</Transaction>
+    <Transaction>2025/06/13 19:31:44.000.326,C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\Unit1.dfm=C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\Prozor.dfm</Transaction>
+    <Transaction>2025/06/13 19:31:44.000.326,C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\Unit1.h=C:\Users\ASUS\Desktop\fakultet\treca godina\sesti semestar\UKG\Projekat\Prozor.h</Transaction>
+  </Transactions>
+</BorlandProject>
